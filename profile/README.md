@@ -7,7 +7,7 @@ We're in the progress of moving here from our previous home organization,
 
 This is part of our effort to build an open source community around this work.
 
-For the most up-to-date information about our community-building information, including
+For the most up-to-date information about our community-building, including
 governance, roadmap, and more, check out our
 [Team Compass](https://github.com/continuous-dems/team-compass)!
 
