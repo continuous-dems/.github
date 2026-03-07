@@ -13,3 +13,11 @@ governance, roadmap, and more, check out our
 
 To get in touch with our community, please join us on our
 [Zulip chat space](https://cudem.zulipchat.com)!
+
+---
+
+## 🎉 Acknowledgements
+
+<a href="https://zulip.com/">
+	<img src="https://github.com/zulip/zulip/blob/main/static/images/logo/zulip-icon-circle.svg" alt="zulip" width="50"/>
+</a>
