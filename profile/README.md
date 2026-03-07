@@ -19,5 +19,5 @@ To get in touch with our community, please join us on our
 ## 🎉 Acknowledgements
 
 <a href="https://zulip.com/">
-	<img src="https://github.com/zulip/zulip/blob/main/static/images/logo/zulip-icon-circle.svg" alt="zulip" width="50"/>
+	<img src="https://raw.githubusercontent.com/zulip/zulip/refs/heads/main/static/images/logo/zulip-icon-circle.svg" alt="zulip" width="50"/>
 </a>
